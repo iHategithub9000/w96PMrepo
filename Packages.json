@@ -94,6 +94,6 @@
           "32x32": "$REPO_PATH$/pakages/gta6/32x32.png",
           "16x16": "$REPO_PATH$/pakages/gta6/16x16.png"
         },
-        "packageRoot": "$REPO_PATH$/pakages/sam"
+        "packageRoot": "$REPO_PATH$/pakages/gta6"
       }
   ]
