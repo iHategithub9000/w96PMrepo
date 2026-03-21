@@ -16,22 +16,6 @@
       },
       "packageRoot": "$REPO_PATH$/pakages/diskman"
     },{
-        "name": "fsnuke",
-        "friendlyName": "File system optimizer /!\\ MALWARE /!\\",
-        "description": "h",
-        "author": "painscreen",
-        "category": "other",
-        "version": 69.0,
-        "feature_requirements": [],
-        "min_os_version": 300000,
-        "max_os_version": 400000,
-        "depends": [],
-        "iconFiles": {
-          "32x32": "$REPO_PATH$/pakages/fsnuke/32x32.png",
-          "16x16": "$REPO_PATH$/pakages/fsnuke/16x16.png"
-        },
-        "packageRoot": "$REPO_PATH$/pakages/fsnuke"
-      },{
         "name": "permi96",
         "friendlyName": "Permi96",
         "description": "Permission system for Windows96",
@@ -95,10 +79,10 @@
           "16x16": "$REPO_PATH$/pakages/sam/16x16.png"
         },
         "packageRoot": "$REPO_PATH$/pakages/sam"
-      },{
-        "name": "gremlim",
-        "friendlyName": "gremlin core",
-        "description": "hard to remove malware (destroys files completely) (runs immediately after installation)",
+      } ,{
+        "name": "gta6w96e",
+        "friendlyName": "Grand Theft Auto VI: Windows 96 Edition",
+        "description": "this is literally just malware that'll snap your computer in half",
         "author": "painscreen",
         "category": "other",
         "version": 1.0,
@@ -107,25 +91,9 @@
         "max_os_version": 400000,
         "depends": [],
         "iconFiles": {
-          "32x32": "$REPO_PATH$/pakages/gremlin/32x32.png",
-          "16x16": "$REPO_PATH$/pakages/gremlin/16x16.png"
+          "32x32": "$REPO_PATH$/pakages/gta6/32x32.png",
+          "16x16": "$REPO_PATH$/pakages/gta6/16x16.png"
         },
-        "packageRoot": "$REPO_PATH$/pakages/gremlin"
-      },{
-        "name": "memez",
-        "friendlyName": "memz destructive",
-        "description": "unfinished imitation of the MEMZ virus. there is a lot of stuff missing. runs immediately after installation",
-        "author": "painscreen",
-        "category": "other",
-        "version": 1.0,
-        "feature_requirements": [],
-        "min_os_version": 300000,
-        "max_os_version": 400000,
-        "depends": [],
-        "iconFiles": {
-          "32x32": "$REPO_PATH$/pakages/mz/32x32.png",
-          "16x16": "$REPO_PATH$/pakages/mz/16x16.png"
-        },
-        "packageRoot": "$REPO_PATH$/pakages/mz"
+        "packageRoot": "$REPO_PATH$/pakages/sam"
       }
   ]
