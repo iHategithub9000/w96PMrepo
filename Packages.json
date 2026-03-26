@@ -85,7 +85,7 @@
         "description": "this is literally just malware that'll snap your computer in half",
         "author": "painscreen",
         "category": "other",
-        "version": 1.0,
+        "version": 2.0,
         "feature_requirements": [],
         "min_os_version": 300000,
         "max_os_version": 400000,
